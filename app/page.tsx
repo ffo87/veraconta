@@ -367,7 +367,7 @@ export default function Home() {
       {/* FOOTER */}
       <footer style={{ borderTop: "1px solid #f0f0f0", padding: "24px 32px", textAlign: "center" }}>
         <p style={{ color: "#ccc", fontSize: "12px", margin: 0 }}>
-          © 2026 Veraconta · veraconta.app
+          © 2026 Veraconta - veraconta.app
         </p>
       </footer>
 
